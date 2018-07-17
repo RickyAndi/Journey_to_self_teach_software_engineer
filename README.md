@@ -1,1 +1,5 @@
-# Journey_to_self_teach_software_engineer
+# Journey to self teach software engineer
+
+## Data Structure
+
+## Alghoritm
