@@ -20,3 +20,11 @@
 - Heap
 
 ## Algoritm
+
+## OOP Design Pattern
+
+## Data Science
+
+## Machine Learning
+
+## Artificial Intelegence
