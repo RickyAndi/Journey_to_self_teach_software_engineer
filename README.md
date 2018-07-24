@@ -11,6 +11,7 @@
 - Array
 - Stack
 - Queue
+- Dequeue
 - Map
 - Sets
 - Graph
