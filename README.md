@@ -1,5 +1,9 @@
 # Journey to self teach software engineer
 
+## Computer Science Basic
+
+- Big O Notation
+
 ## Data Structure
 
 - Singly Linked List
